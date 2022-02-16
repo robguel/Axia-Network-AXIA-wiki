@@ -26,7 +26,7 @@
    );
  
    const NavItem = ({ href, aosDelay, children }) => (
-     <Col xs={12} md={12} lg={4} className="homeNavItem rounded-lg">
+     <Col xs={12} md={12} lg={6} className="homeNavItem rounded-lg">
        <a
          href={href}
          className="h-100 d-flex align-items-center"
@@ -70,8 +70,6 @@
            </Translate>
          </NavItemContent>
          
-       </NavItem>
-       <NavItem >
         </NavItem>
        <NavItem href={useDocUrl("build-index")} aosDelay="200">
        <h3>For</h3>

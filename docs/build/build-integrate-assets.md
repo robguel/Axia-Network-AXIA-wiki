@@ -6,10 +6,10 @@ slug: ../build-integrate-assets
 ---
 
 # **Balance Transfers**
-Balance transfers are used to send balance from one account to another account. To start transferring balances, we will begin by using [AXIA-JS Apps](https://apps.test.axiacoin.network/?rpc=wss%3A%2F%2Fwss.test.axiacoin.network#/accounts). This guide assumes that you've already created an account and have some funds that are ready to be transferred.
-## AXIA-JS Apps
+Balance transfers are used to send balance from one account to another account. To start transferring balances, we will begin by using [AXscan](https://axscan.test.axiacoin.network/?rpc=wss%3A%2F%2Fwss.test.axiacoin.network#/explorer). This guide assumes that you've already created an account and have some funds that are ready to be transferred.
+## AXscan
 
-Let's begin by opening [AXIA-JS Apps](https://apps.test.axiacoin.network/?rpc=wss%3A%2F%2Fwss.test.axiacoin.network#/accounts). There are two ways to make a balance transfer:
+Let's begin by opening [AXscan](https://axscan.test.axiacoin.network/?rpc=wss%3A%2F%2Fwss.test.axiacoin.network#/explorer). There are two ways to make a balance transfer:
 
 1. By using the "Transfer" tab in the "Accounts" dropdown (located on the top navigational menu).
 2. Clicking the "send" button while in the "Accounts" page.

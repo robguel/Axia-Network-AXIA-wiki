@@ -5,7 +5,7 @@ sidebar_label: Coin Supply and Management
 slug: ../learn-crosschain
 ---
 
-## AXIA TOKENOMICS 
+## AXIA Tokenomics
 AXIA is introducing a proprietary monetary model that combines a number of economic features that provide unique benefits to participants and holders of the AXIA Coin. 
 
 AXIA is the first ever hyper-deflationary asset supported digital currency that provides real-time transparency of its treasury holdings. The AXIA Treasury has been established to give additional support to AXIA Coin and its holders. 
@@ -13,7 +13,7 @@ AXIA is the first ever hyper-deflationary asset supported digital currency that 
 The unique combination of a coin supply that reduces through coin burning from activities such as participating and staking, along with the treasury that can grow with total visibility to the market enables the enhancement of the purchasing power of the AXIA Coin. The  proprietary tokenomic design is enabled by a variety of smart contracts built into the AXIA project.
 
 Wherever possible, third-parties have been utilized to review, report and audit on the viability of the economics, the reporting tools utilized and smart contracts put in place to ensure security, reliability and credibility is always in place.
-## AXIA COIN BURNING
+## AXIA Coin Burning
 The coin burning mechanism is facilitated from a variety of inputs that will only increase in velocity as the AXIA Ecosystem continues to expand. This hyper-deflationary aspect of the economic design
 
 The AXIA Coin Burning Smart Contract ensures that coins are burned from the Total Supply when any of the following four events happens:
@@ -34,18 +34,18 @@ Monetary theorists have proposed that minting / printing more currency increases
 Inflationary monetary policies where currency can be minted at any time in whatever amount, have proven that not only will there be a loss of purchasing power, hence value, but there is minimal or no significant increase in productivity. It establishes a system of wealth concentration and unfairness. In the case of sovereign currencies a dependence on debt. 
 
 The architecture of the AXIA tokenomics is specifically based on having a model that increases productivity and prosperity for all in an equitable manner. Where there will be opportunity for all individuals to advance themselves and improve the life of others as well as increase efficiency and productivity for businesses. 
-## STAKING 
+## Staking 
 The AXIA Staking Model is unique in the industry. It is designed to generate rewards for participants providing additional value while also ensuring there is protection regardless of market scenarios. The rewards are calculated based on a proprietary approach utilizing the AXC/USD exchange rate.
 
 For example, should there be an increase in the exchange rate for AXIA Coin, then the previous rewards earned are worth more. There is also an additional value and a built-in hedge if there was ever a decrease in the exchange rate, as there would be more rewards distributed to the participants to safeguard against this. Therefore, the potential for compounding the rewards is even greater due to the fact that the AXIA Coin holders would accumulate more rewards augmenting the compounding effect.  
 
 This unique value proposition provides benefit to AXIA Coin stakers regardless of changes in exchange rate throughout the staking term.
-## AXIA TREASURY
+## AXIA Treasury
 Whenever coins are purchased directly from the AXIA Capital Bank or elsewhere within the AXIA Ecosystem, the AXIA Treasury increases according to that purchase value. Moreover, the Total Supply is reduced by the corresponding amount of coins. If there is an associated fee it grows the Treasury that much more and further enhances the reduction of the total supply from that one singular instance. 
 
 Any fiat capital or cryptocurrency used to acquire that coin is deposited into the Treasury.   Earnings generated from any of the AXIA platforms, applications or businesses as well as associated partnerships within the ecosystem are also deposited into the AXIA Treasury. The Treasury will have the means to consistently grow as the ecosystem continues to expand thus providing greater support and strength for AXIA Coin. 
 
-## ENHANCEMENT OF PURCHASING POWER
+## Enhancement of Purchasing Power
 Part of the monetary policy of AXIA is to ensure constant enhancement of the purchasing power of AXIA Coin is in place for all participants. 
  
 The unique attributes of the AXIA tokenomics is that they are designed to support an evaluation multiple (market capitalization determined by the market) of the overall value of the AXIA Treasury. The fact that the Treasury will always increase over time while there will be the constant decrease of the Total Supply of AXIA Coin provides not only fundamental value, but the justification and reasoning as to how to determine the value of the AXIA Coin itself. Especially relative to other alternatives whether they be sovereign issued currency or other cryptocurrencies that simply cannot compete with this superior monetary system and economic model. 

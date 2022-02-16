@@ -5,9 +5,9 @@ sidebar_label: Account Creation
 slug: ../build-integration
 ---
 
-### Go to AXIA-JS Apps
+### Go to AXscan
 
-Navigate to [AXIA-JS Apps](https://apps.test.axiacoin.network/?rpc=wss%3A%2F%2Fwss.test.axiacoin.network#/accounts) and click on "Accounts" underneath the
+Navigate to [AXscan](https://axscan.test.axiacoin.network/?rpc=wss%3A%2F%2Fwss.test.axiacoin.network#/explorer) and click on "Accounts" underneath the
 Accounts tab. It is located in the navigation bar at the top of your screen.
 
 ![pjs-01](../assets/explorer/create_account.png)

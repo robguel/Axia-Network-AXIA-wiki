@@ -26,7 +26,7 @@ class HomeNav extends React.Component {
     );
 
     const NavItem = (props) => (
-      <Col xs={12} md={12} lg={4} className="homeNavItem rounded-lg">
+      <Col xs={12} md={12} lg={6} className="homeNavItem rounded-lg">
         <a
           href={props.href}
           className="h-100 d-flex align-items-center"
@@ -57,12 +57,14 @@ class HomeNav extends React.Component {
           title="For Everyone"
           aosDelay="300"
         />
+        /**
         <NavItem
           href={this.props.docUrl("maintain-index")}
           title="For Admins"
           content="Information and guides on how to deploy a node and run the network."
           aosDelay="600"
         />
+        **/
       </NavContainer>
     );
   }

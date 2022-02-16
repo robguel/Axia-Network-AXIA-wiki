@@ -17,4 +17,3 @@ This section of the wiki is divided into the following parts:
 - [Wallet Usage](build-storage) -  A short overview of the AXwallet usage.
 - [Faucet Usage](build-smart-contracts) - How to get Testnet tokens using AXchat faucet.
 - [AXIA Explorer](build-oracle) - Learn to use the AXscan, an AXIA network explorer utility.
-- [Telemetry](build-wallets) - A short overview of the AXIA Telemetry Service.

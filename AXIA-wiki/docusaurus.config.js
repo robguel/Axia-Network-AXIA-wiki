@@ -52,7 +52,7 @@ module.exports = {
       {
         docs: {
           editUrl: ({ docPath }) =>
-            `https://github.com/axia-tech/AXIA-wiki/edit/master/docs/${docPath}`,
+            `https://github.com/AxiaCoin/Axia-Network-AXIA-wiki/edit/master/docs/${docPath}`,
           path: "../docs",
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
@@ -140,11 +140,13 @@ module.exports = {
        * },
        * 
        **/
+        /**
         {
           to: "docs/contributing",
           label: "Contribute",
           position: "right",
         }
+        **/
       ],
     },
     footer: {
@@ -153,6 +155,7 @@ module.exports = {
         src: "img/AXIA-blue-logo.svg",
       },
     },
+    /**
     algolia: {
       apiKey: "API_KEY_HERE",
       indexName: "AXIA",
@@ -160,6 +163,7 @@ module.exports = {
         facetFilters: ["language:LANGUAGE"],
       },
     },
+    **/
     docsSideNavCollapsible: true,
   },
 };
