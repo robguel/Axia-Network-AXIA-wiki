@@ -7,25 +7,25 @@ slug: ../build-transaction-construction
 
 <!-- no updates -->
 
-This page will discuss the transaction format in AXIA and how to create, sign, and broadcast
+This page will discuss the transaction format in AXIA network and how to create, sign, and broadcast
 transactions. Like the other pages in this guide, this page demonstrates some of the available
-tools. **Always refer to each tool's documentation when integrating.**
+tools.
 
 ## Transaction Format
 
-AXIA has some basic transaction information that is common to all transactions.
+AXIA network has some basic transaction information that is common to all transactions.
 
 - Address: The SS58-encoded address of the sending account.
-- Block Hash: The hash of the [checkpoint](build-protocol-info.md#transaction-mortality) block.
+- Block Hash: The hash of the block.
 - Block Number: The number of the checkpoint block.
 - Genesis Hash: The genesis hash of the chain.
 - Metadata: The SCALE-encoded metadata for the runtime when submitted.
 - Nonce: The nonce for this transaction.\*
 - Spec Version: The current spec version for the runtime.
 - Transaction Version: The current version for transaction format.
-- Tip: Optional, the [tip](build-protocol-info.md#fees) to increase transaction priority.
+- Tip: Optional, the tip to increase transaction priority.
 - Era Period: Optional, the number of blocks after the checkpoint for which a transaction is valid.
-  If zero, the transaction is [immortal](build-protocol-info.md#transaction-mortality).
+  If zero, the transaction is immortal.
 
 \*The nonce queried from the System module does not account for pending transactions. You must track
 and increment the nonce manually if you want to submit multiple valid transactions at the same time.
@@ -46,9 +46,9 @@ Once you have all the necessary information, you will need to:
 
 AXIA provides the following tools to help perform these steps.
 
-## AXIA-JS Tools
+## AXscan Tools
 
-[AXIA-JS Tools](https://github.com/AXIA-js/tools) contains a set of command line tools for
+[AXscan Tools](https://axscan.test.axiacoin.network/#/js) contains a set of javascript tools for
 interacting with a Axlib client, including one called "Signer CLI" to create, sign, and
 broadcast transactions.
 
@@ -85,19 +85,15 @@ Save the output and bring it to the machine that you will broadcast from, enter 
 signature field, and send the transaction (or just return the serialized transaction if using
 `sendOffline`).
 
-## Tx Wrapper AXIA
+## AXIA Transaction wrapper (txwrapper)
 
-If you do not want to use the CLI for signing operations, AXIA provides an SDK called
-[TxWrapper Core](https://github.com/axia-tech/txwrapper-core) to generate and sign transactions
-offline. For AXIA, and select allychains, use the `txwrapper-AXIA` package. Other
-Axlib-based chains will have their own `txwrapper-{chain}` implementations. See the
-[examples](https://github.com/axia-tech/txwrapper-core/blob/main/packages/txwrapper-examples/README.md)
-for a guide.
+If you do not want to use the CLI for signing operations, AXIA provides an SDK called txwrapper-axia-core to generate and sign transactions 
+offline.
 
 **Import a private key**
 
 ```ts
-import { importPrivateKey } from '@axlib/txwrapper-AXIA';
+import { importPrivateKey } from '@axia-core/txwrapper-axia-core';
 
 const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
 ```
@@ -105,7 +101,7 @@ const keypair = importPrivateKey(“pulp gaze fuel ... mercy inherit equal”);
 **Derive an address from a public key**
 
 ```ts
-import { deriveAddress } from '@axlib/txwrapper-AXIA';
+import { deriveAddress } from '@axia-core/txwrapper-axia-core';
 
 // Public key, can be either hex string, or Uint8Array
 const publicKey = “0x2ca17d26ca376087dc30ed52deb74bf0f64aca96fe78b05ec3e720a72adb1235”;
@@ -115,7 +111,7 @@ const address = deriveAddress(publicKey);
 **Construct a transaction offline**
 
 ```ts
-import { methods } from "@axlib/txwrapper-AXIA";
+import { methods } from "@axia-core/txwrapper-axia-core";
 
 const unsigned = methods.balances.transferKeepAlive(
   {
@@ -146,7 +142,7 @@ const unsigned = methods.balances.transferKeepAlive(
 **Construct a signing payload**
 
 ```ts
-import { methods, createSigningPayload } from '@axlib/txwrapper-AXIA';
+import { methods, createSigningPayload } from '@axia-core/txwrapper-axia-core';
 
 // See "Construct a transaction offline" for "{...}"
 const unsigned = methods.balances.transferKeepAlive({...}, {...}, {...});
@@ -156,11 +152,9 @@ const signingPayload = createSigningPayload(unsigned, { registry });
 **Serialize a signed transaction**
 
 ```ts
-import { createSignedTx } from "@axlib/txwrapper-AXIA";
+import { createSignedTx } from "@axia-core/txwrapper-axia-core";
 
 // Example code, replace `signWithAlice` with actual remote signer.
-// An example is given here:
-// https://github.com/axia-tech/txwrapper-core/blob/b213cabf50f18f0fe710817072a81596e1a53cae/packages/txwrapper-core/src/test-helpers/signWithAlice.ts
 const signature = await signWithAlice(signingPayload);
 const signedTx = createSignedTx(unsigned, signature, { metadataRpc, registry });
 ```
@@ -170,7 +164,7 @@ const signedTx = createSignedTx(unsigned, signature, { metadataRpc, registry });
 You may want to decode payloads to verify their contents prior to submission.
 
 ```ts
-import { decode } from "@axlib/txwrapper-AXIA";
+import { decode } from "@axia-core/txwrapper-axia-core";
 
 // Decode an unsigned tx
 const txInfo = decode(unsigned, { metadataRpc, registry });
@@ -185,7 +179,7 @@ const txInfo = decode(signedTx, { metadataRpc, registry });
 **Check a transaction's hash**
 
 ```ts
-import { getTxHash } from ‘@axlib/txwrapper-AXIA’;
+import { getTxHash } from ‘@axia-core/txwrapper-axia-core’;
 const txHash = getTxHash(signedTx);
 ```
 
@@ -194,28 +188,6 @@ const txHash = getTxHash(signedTx);
 There are several ways to submit a signed payload:
 
 1. Signer CLI (`yarn run:signer submit --tx <signed-transaction> --ws <endpoint>`)
-1. [Axlib API Sidecar](build-node-interaction#axlib-api-sidecar)
-1. [RPC](build-node-interaction#AXIA-rpc) with `author_submitExtrinsic` or
+1. RPC with `author_submitExtrinsic` or
    `author_submitAndWatchExtrinsic`, the latter of which will subscribe you to events to be notified
    as a transaction gets validated and included in the chain.
-
-## Notes
-
-Some addresses to use in the examples. See
-[Subkey documentation](https://axlib.dev/docs/en/knowledgebase/integrate/subkey).
-
-```bash
-$ subkey --network AXIA generate
-Secret phrase `pulp gaze fuel ... mercy inherit equal` is account:
-  Secret seed:      0x57450b3e09ba4598 ... ... ... ... ... ... ... .. 219756eeba80bb16
-  Public key (hex): 0x2ca17d26ca376087dc30ed52deb74bf0f64aca96fe78b05ec3e720a72adb1235
-  Account ID:       0x2ca17d26ca376087dc30ed52deb74bf0f64aca96fe78b05ec3e720a72adb1235
-  SS58 Address:     121X5bEgTZcGQx5NZjwuTjqqKoiG8B2wEAvrUFjuw24ZGZf2
-
-$ subkey --network AXIA generate
-Secret phrase `exercise auction soft ... obey control easily` is account:
-  Secret seed:      0x5f4bbb9fbb69261a ... ... ... ... ... ... ... .. 4691ed7d1130fbbd
-  Public key (hex): 0xda04de6cd781c98acf0693dfb97c11011938ad22fcc476ed0089ac5aec3fe243
-  Account ID:       0xda04de6cd781c98acf0693dfb97c11011938ad22fcc476ed0089ac5aec3fe243
-  SS58 Address:     15vrtLsCQFG3qRYUcaEeeEih4JwepocNJHkpsrqojqnZPc2y
-```
