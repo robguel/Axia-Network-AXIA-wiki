@@ -3,6 +3,7 @@ id: how-to-dyor
 title: How to Do Your Own Research (DYOR)
 sidebar_label: How to Do Your Own Research
 slug: ../how-to-dyor
+
 ---
 
 Many projects are being built, or intend to build, on both AXIA. However, many claim

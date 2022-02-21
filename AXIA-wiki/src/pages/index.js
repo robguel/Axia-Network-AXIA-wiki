@@ -71,7 +71,7 @@
          </NavItemContent>
          
         </NavItem>
-       <NavItem href={useDocUrl("build-index")} aosDelay="200">
+       <NavItem href={useDocUrl("BuilderGuides")} aosDelay="200">
        <h3>For</h3>
          <NavItemTitle>
            <Translate

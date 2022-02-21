@@ -3,6 +3,7 @@ id: learn-phragmen
 title: Partnerships
 sidebar_label: Partnerships
 slug: ../learn-phragmen
+
 ---
 
 In our current economy businesses run in a closed loop system. Corporations are totally and completely dependent on their own productivity, upon which they either succeed or fail. Participating in the AXIA ecosystem flips that model on its head, because any business can be immediately exposed to the AXIA global user base while being able to utilize a currency that can be used more efficiently with more control, with a one-of-a-kind hyper-deflationary economic model. It can also allow them the ability to enhance purchasing power, but will most importantly provide a hedge against business risk. 

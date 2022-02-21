@@ -114,6 +114,7 @@ module.exports = {
       items: [
             "build/build-index",
             "build/build-pdk",
+            "build/build-transaction-construction",
             "build/build-guide",
             //"learn/learn-implementers-guide",
             
@@ -124,8 +125,7 @@ module.exports = {
             items:[
             //TO DO
                 "build/build-storage",
-                //"build/build-transaction-construction",
-"build/build-node-interaction","build/build-protocol-info",
+                "build/build-node-interaction","build/build-protocol-info",
                 ],
 },
            "build/build-smart-contracts",

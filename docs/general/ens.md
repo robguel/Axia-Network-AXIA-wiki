@@ -3,6 +3,7 @@ id: ens
 title: Need for Currency Competition
 sidebar_label: Need for Currency Competition
 slug: ../ens
+
 ---
 
 The loss of purchasing power is happening all the time with no way for people to stop the decline. Fiat currency is not backed by anything; it can be created out of thin air in whatever amount. This lowers the purchasing power of money relative to what it can be exchanged for. This is what occurs every time a central bank expands the money supply. Money and credit becomes more easily available, leading some assets to appear like they are gaining value. The reality is that it is just the loss of purchasing power.

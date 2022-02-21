@@ -3,6 +3,7 @@ id: learn-security
 title: Treasury
 sidebar_label: Treasury
 slug: ../learn-security
+
 ---
 
 The purpose of the AXIA Treasury is to safeguard and reinforce the value of AXIA Coin. The value of AXIA Coin is enhanced by the value stemming from the ability to consistently expand the AXIA Treasury. The assets held in the AXIA Treasury are made transparent to the public in real-time, at all times, visible directly on AXIA Coin website for all to see and transparently verified through the AXIA Real-Time-Reporting Platform. The benefits of the asset-supported model will be shared among the community. 

@@ -2,7 +2,7 @@
 id: scams
 title: The AXIA Solution
 sidebar_label:  AXIA - The Solution
-slug: ../learn-scams
+slug: ../scams
 ---
 
 
