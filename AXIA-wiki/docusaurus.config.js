@@ -111,12 +111,12 @@ module.exports = {
       },
       items: [
         {
-          to: "docs/getting-started",
+          to: "docs/AXIAOverview",
           label: "Get Started",
           position: "right",
         },
         {
-          to: "docs/learn-architecture",
+          to: "docs/The-AXIA-Network",
           label: "Everyone",
           position: "right",
         },

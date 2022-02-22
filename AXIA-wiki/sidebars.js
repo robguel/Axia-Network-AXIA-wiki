@@ -2,28 +2,30 @@ module.exports = {
   docs: [
     {
       type: "category",
-      label: "General",
+      label: "Introduction",
       items: [
-        "general/getting-started",
-        "general/claims",
-        "general/redenomination",
-        {
-             type: "category",
-             label: "Why AXIA?",
-             items:[            
+        "general/AXIAOverview",
+        "general/AXIATestNet",
+        //"general/getting-started",
+        //"general/claims",
+        //"general/redenomination",
+        //{
+          //   type: "category",
+            // label: "Why AXIA?",
+             //items:[            
 
-            "general/grants",
-            "general/ambassadors",
-            "general/community",
-            "general/contributing",
-            "general/contributors",
-            "general/glossary",
-            "general/ens",
-            "general/ledger",
-            "general/research",
-]},
+            //"general/grants",
+            //"general/ambassadors",
+            //"general/community",
+          //  "general/contributing",
+            //"general/contributors",
+            //"general/glossary",
+            //"general/ens",
+            //"general/ledger",
+            //"general/research",
+//]},
          
-          "general/scams",
+         // "general/scams",
         //"general/how-to-dyor",
         //"general/doc-thousand-validators",
         //"general/faq",
@@ -31,22 +33,29 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Learn",
+      label: "Discover",
       items: [
         //"learn/learn-architecture",
         {
           type: "category",
-          label: "Basics",
+          label: "Getting Started",
           items: [
-            "learn/learn-architecture",
-            "learn/learn-accounts",
-            "learn/learn-account-generation",
-            "learn/learn-account-restore",
-            "learn/learn-AXC",
-            "learn/learn-security",
-            "learn/learn-consensus",
-            "learn/learn-nominator",
+            "learn/The-AXIA-Network",
+            "learn/The-AXIA-Economy",
+            "learn/The-AXIA-Treasury",
+            //"learn/AXIA-Coin-(AXC)",
             "learn/learn-auction",
+            "learn/AXIA-Foundation",
+
+            //"learn/learn-architecture",
+            //"learn/learn-accounts",
+            //"learn/learn-account-generation",
+            //"learn/learn-account-restore",
+            //"learn/learn-AXC",
+            //"learn/learn-security",
+            //,
+            //"learn/learn-nominator",
+            
             //"learn/learn-validator",
             //"learn/learn-collator",
             //"learn/learn-governance",
@@ -58,6 +67,41 @@ module.exports = {
             //"learn/learn-registrar",
             //"learn/learn-runtime-upgrades",
           ],
+        },
+        
+        {
+          type: "category",
+          label: "Advanced",
+          items: [
+            "learn/The-AXIA-Ecosystem",
+            "learn/AXIA-DeFi",
+            "learn/AXIA-Services",
+            "learn/AXIA-Applications",
+            "learn/AXIA-Staking",
+            "learn/learn-cross-consensus",
+            //"learn/Coin-Supply-and-Management",
+            "learn/learn-consensus",
+            //"learn/Transaction-Fees",
+            //"learn/learn-staking",
+            //"learn/learn-proxies",
+            //"learn/learn-availability",
+            //"learn/learn-randomness",
+            //
+            //{
+            // type: "category",
+             //label: "Benefits",
+            // items:[            
+
+           // "learn/learn-spree",
+            //"learn/learn-wasm",
+            //"learn/learn-phragmen",
+            //"learn/learn-simple-payouts",]}
+          ],
+        },
+        {
+          type: "category",
+          label: "Cryptography",
+          items: ["learn/learn-cryptography", "learn/learn-keys"],
         },
         {
           type: "category",
@@ -72,31 +116,6 @@ module.exports = {
             //"learn/learn-teleport",
           ],
         },
-        {
-          type: "category",
-          label: "Advanced",
-          items: [
-            "learn/learn-staking",
-            "learn/learn-proxies",
-            "learn/learn-availability",
-            "learn/learn-randomness",
-            "learn/learn-cross-consensus",
-            {
-             type: "category",
-             label: "Benefits",
-             items:[            
-
-            "learn/learn-spree",
-            "learn/learn-wasm",
-            "learn/learn-phragmen",
-            "learn/learn-simple-payouts",]}
-          ],
-        },
-        {
-          type: "category",
-          label: "Cryptography",
-          items: ["learn/learn-cryptography", "learn/learn-keys"],
-        },
        /* {
           type: "category",
           label: "AXIA Comparisons",
@@ -110,7 +129,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Build",
+      label: "Develop",
       items: [
             "build/build-index",
             "build/build-pdk",

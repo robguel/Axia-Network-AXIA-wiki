@@ -1,9 +1,4 @@
----
-id: learn-auction
-title: AXIA Coin (AXC)
-sidebar_label: AXIA Coin (AXC)
-slug: ../learn-auction
----
+
 
 The monetary policy of AXIA is controlled by code, not a few people in a boardroom. Unlike fiat currencies, AXIA has a limited total supply that has already been established which can only reduce over time.. There will never be more AXIA Coins minted than the Total Supply. And the Total Supply can only decrease, never increase. 
 
@@ -29,9 +24,9 @@ In addition to offering a more efficient and cost effective ability to move thei
 * AXIA Coin price
 * AXIA Ecosystem Participants along with all network activity 
 
-[AXC Dashboard](https://axia.global/) all in real time. 
+all in real time. 
 
-
+[AXC Dashboard](https://axia.global/)
 
 ## Standard Method of Calculating Market Capitalization
 While the Circulating Supply, Total Supply, Staked Supply and Burned Supply may vary at any one time, what is unequivocal, indisputable and immutable is that the Total Supply will never go up, only down. There will never be more coins minted than the Initial Total Supply.
@@ -53,6 +48,7 @@ Any asset(s) that are exchanged for AXIA Coins are then transferred into the AXI
 At the same time an equivalent amount of AXIA Coin is burned, thus increasing the Total Burned Supply.  Additionally should a participant choose to stake AXIA Coin this will increase the Total Staked Supply and raise the Total Burned Supply even more with a commensurate amount of AXIA Coin permanently removed from Total Supply. 
 
 Individuals will be able to easily assess AXIA Coin data relative to alternatives. This is due to the overall transparency of information displayed to the market. It will simplify the capability to make informed decisions in the fraction of the time that it might take to draw conclusions about other projects. The fundamentals will speak for themselves.
+
 ## AXIA aims to remove the speculative nature of cryptocurrencies
 
 AXIA Early Adopter AXIA Coins have been pre-committed to founding team members, strategic advisors and project funding participants prior to the AXIA Network Launch. AXIA aims to remove the speculative nature of cryptocurrencies by releasing clear-cut, real-time based figures to the world. AXIA is a project that is supported by a diverse international team that has professionalhas diverse professional backgrounds and experience in:such as: application development, blockchain and software engineering, finance, and marketing. AXIA is a self-funded project from the contributions of the early adopters. The funds contributed by early participants have been utilized to develop the network and the ever expanding AXIA Ecosystem consisting of applications and platforms available today and into the future. AXIA Coins from this pool will also be used for the upgrades, maintenance, administration and development of existing and new use cases, services and applications along with the implementation of the strategic partnerships and awareness campaigns that will assist to ensure the widespread adoption of the AXIA Network and AXIA Coin. AXIA will continue to promote a participatory inclusionary model inviting new participants to assist with new developments and the strategic direction of the overall AXIA Network.

@@ -1,7 +1,7 @@
 ---
 id: build-index
-title: Builder's Guides
-sidebar_label: Builder's Guides
+title: Developer Guides
+sidebar_label: Developer Guides
 slug: ../BuilderGuides
 ---
 

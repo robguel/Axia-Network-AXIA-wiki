@@ -50,7 +50,7 @@
  
    return (
      <NavContainer>
-       <NavItem href={useDocUrl("learn-architecture")} aosDelay="0">
+       <NavItem href={useDocUrl("The-AXIA-Network")} aosDelay="0">
          <h3>For</h3>
          <NavItemTitle>
            <Translate
