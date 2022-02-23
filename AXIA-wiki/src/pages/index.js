@@ -65,8 +65,7 @@
              id="homePage.navContainer.learn.content"
              description="Content of Learn Navigator in Home page"
            >
-             AXIA is a sharded protocol that enables blockchain networks to
-             operate together seamlessly.
+             In-depth information for everyone wanting to discover and learn about the AXIA Network and Ecosystem.
            </Translate>
          </NavItemContent>
          
@@ -86,8 +85,7 @@
              id="homePage.navContainer.build.content"
              description="Content of Build Navigator in Home page"
            >
-             Most up-to-date information on the status of the development tools
-             in the AXIA ecosystem.
+             Information, development tools and support for anyone interested in building on the AXIA Network.
            </Translate>
          </NavItemContent>
        </NavItem>

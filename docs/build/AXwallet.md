@@ -10,8 +10,8 @@ AXwallet is aan application that allows one to store private keys and sign trans
 ### Supported Wallets
 | AXwallet                                                         | Development State | Description       |  Supports |
 | ------------------------------------------------------------------- | -----------------| ----------------- |  -------- |
-| [AXwallet](https://play.google.com/store/apps/details?id=com.axia.wallet) |Testnet Access              | iOS and Android   |  Staking  |
-| [AXwallet Web](https://axscan.test.axiacoin.network/?rpc=wss%3A%2F%2Fwss.test.axiacoin.network#/explorer)         | Live                  | Browser           | Staking  |
+| AXwallet |Testnet Access              | [iOS](https://apps.apple.com/us/app/axwallet/id1604038953) and [Android](https://play.google.com/store/apps/details?id=com.axia.wallet)   |  Staking  |
+| AXwallet Web         | Live                  | [Browser](https://axscan.test.axiacoin.network/?rpc=wss%3A%2F%2Fwss.test.axiacoin.network#/explorer)           | Staking  |
 
 ### AXwallet
 

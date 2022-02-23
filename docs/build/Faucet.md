@@ -31,4 +31,4 @@ In order to test the **!drip** command the AXIA wallet-AXwallet-needs to be inst
 
 
 ## Access AXchat Testnet Faucet
-[Testnet Faucet](https://discord.gg/ebjsN9ByMb) - Get access to the AXchat Testnet faucet group.
+[Testnet Faucet](https://axchat.io/join/NjFlNjljZDBjYTA4ZGMwMDEyMTA3ZTY0JlRlc3ROZXQgQ29tbXVuaXR5JjI=) - Get access to the AXchat Testnet faucet group.

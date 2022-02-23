@@ -4,15 +4,6 @@ title: AXIA Overview
 sidebar_label: AXIA Overview 
 slug: ../AXIAOverview
 ---
-## Welcome to the New Frontier - AXIA is Here
-
-We are trapped in a broken economic model that threatens our welfare and that of our descendants. We lose control of our destiny due to the significant structural and foundational flaws in the global financial market. We are at the mercy of an unfair system that produces ever-expanding debt loads, all while our currency and purchasing power is devalued. Increasing levels of debt among governments, businesses and individuals contribute to increasing risk factors and vulnerabilities across the economy. The accumulation of risk factors and vulnerabilities reduces resilience and can produce extreme volatility. We are living in a time of constantly increasing economic fragility.
-
-The cost of living increases, yet incomes do not. While people survive they must continue to service their debts. The money-printing and balance sheet measures are band-aid approaches. These measures result in most falling further behind. Saving for oneself and family members becomes an uphill battle against a system that is working against them. The result is extreme individualism, where the benefit of one is often at the expense of others - leading to a toxic culture of inequality. 
-
-As nations race to the bottom taking strategic measures to debase the value of their currencies, battling it out in “currency wars” and “trade wars,” where is the safe haven for the people who are so negatively affected by these wars?  Where is the safe haven that is easily accessible, with low barriers to entry? Where is the safe haven that strips away the systemic risks inherent in government-issued currencies by centralized monetary authorities? 
-
-Where is an option that can be trusted beyond reproach? An option not run by a central organization of a few but where power is distributed to the many. An option that provides a secure and stable foundation and can act as a universal unit of measurement of value? An option with a limitation of supply and a monetary policy that offers and preserves a true storage of value while continuously delivering value back to its holders, making it a preferred medium of exchange that can be used globally? Where is there an economic and financial model that provides a true stake for all involved that includes an all-encompassing ecosystem, where the benefits and rewards can be accessed by everyone and act as a safe haven in a world of uncertainty? 
 
 ## Introducing AXIA  - The first-ever hyper-deflationary Blockchain Network
 

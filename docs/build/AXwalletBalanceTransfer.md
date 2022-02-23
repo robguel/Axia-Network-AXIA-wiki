@@ -15,15 +15,15 @@ Select a account which have some funds
 
 ![2](../assets/wallet/BalanceTransfer/2.jpeg)
 
-Click the `AXC` under the Assets
+Click the AXC under the Assets
 
 ![3](../assets/wallet/BalanceTransfer/3.jpeg)
 
-It will show an interface like this. In the down below there are two options `Receive` and `Transfer`.
+It will show an interface like this. In the down below there are two options Receive and Transfer.
 
 ![4](../assets/wallet/BalanceTransfer/4.jpeg)
 
-By clicking `Receive` it will show a QR code with the wallet address.
+By clicking Receive it will show a QR code with the wallet address.
 
 ![5](../assets/wallet/BalanceTransfer/5.jpeg)
 
@@ -31,7 +31,7 @@ One can scan the QR code or copy this address to send the AXC.
 
 ![6](../assets/wallet/BalanceTransfer/6.jpeg)
 
-With `Transfer` you can send some AXC to other accounts. 
+With Transfer you can send some AXC to other accounts. 
 
 ![7](../assets/wallet/BalanceTransfer/7.jpeg)
 
@@ -47,11 +47,11 @@ Or you can give a address manually or select some existing address
 
 ![10](../assets/wallet/BalanceTransfer/10.jpeg)
 
-Type some amount in the box and click on `Make Transfer`
+Type some amount in the box and click on Make Transfer
 
 ![11](../assets/wallet/BalanceTransfer/11.jpeg)
 
-You can see the Transaction details. Click `Submit` to make the transfer.
+You can see the Transaction details. Click Submit to make the transfer.
 
 ![12](../assets/wallet/BalanceTransfer/12.jpeg)
 

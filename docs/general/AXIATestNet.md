@@ -4,10 +4,10 @@ title: AXIA TestNet
 sidebar_label: AXIA TestNet
 slug: ../AXIATestNet
 ---
-The AXIA project with its vision to create an inclusive economy commenced several years ago, with the founding project team developing a suite of  ready-to-use ecosystem of applications, platforms and businesses. 
 
-Several applications and platforms were already launched in 2021, utilizing the Ethereum blockchain, while simultaneously developing the very own AXIA blockchain network, which is going to serve as the foundation for the complete Ecosystem. 
+Several applications and platforms have been made  available for the AXIA project prior to the launch of the AXIA Network. The AXIA Network will serve as the foundation for the complete Ecosystem.
 
-The AXIA Network is now officially in TestNed mode, and the project team is inviting the developer community to continue expanding the ecosystem and partnerships. 
+The AXIA Network is now officially in TestNet. The project team is now inviting developers to join the community to continue to expand the ecosystem and develop more and more partnerships. 
 
-Upon launch of the AXIA Network (MainNet) the current AXIA Coin (AXC) ERC-20 token will be replaced by the actual AXIA Coin (AXC), which will become the network coin of the AXIA Network.
+Upon launch of the AXIA Network (MainNet) the current AXIA Coin (AXC) ERC-20 token will be replaced in a seamless fashion by the superior AXIA Coin (AXC). This coin, the native coin of the AXIA Network, will offer so much more for the AXIA community and for all the participants today and tomorrow. 
+

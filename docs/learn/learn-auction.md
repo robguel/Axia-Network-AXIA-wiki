@@ -10,13 +10,11 @@ The monetary policy of AXIA is controlled by code, not a few people in a boardro
 
 In addition to offering a more efficient and cost effective ability to move their AXIA Coins from wallet-to-wallet, across the globe, individual community members will be able to exchange their AXIA Coins for other global currencies should they wish to do so. In supporting these integration and partnership opportunities, the AXIA Foundation maintains a commitment to actively support a variety of use cases through innovative services, products and platforms so that global participants, businesses and projects continue to flourish within the community. 
 
-### AXIA Coin INFORMATION (as of this date of this document):
-* Digital Currency Name/ Market Symbol: AXC
-* AXC Initial Total Supply: 72,560,000,000.00000
-* AXC Total Supply: 72,244,370,739.00000 AXC
-* AXC Total Circulating Supply:  AXC
-* AXC Total Staked Supply: AXC
-* AXC Total Burned Supply: AXC
+### AXIA Coin INFORMATION :
+
+All AXC related supply information is displayed in real-time on :
+
+[AXIA.global](https://axia.global/)
 
 
 
@@ -29,7 +27,7 @@ In addition to offering a more efficient and cost effective ability to move thei
 * AXIA Coin price
 * AXIA Ecosystem Participants along with all network activity 
 
-[AXC Dashboard](https://axia.global/) all in real time. 
+all in real time. 
 
 
 

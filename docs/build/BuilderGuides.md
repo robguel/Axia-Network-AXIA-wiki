@@ -13,6 +13,7 @@ This section of the wiki is divided into the following parts:
 
 
 - [AXIA RPC](AXIANetworkRPC) -  Here you can find out AXIA Network's RPC methods.
+- [Transaction Structure](TransactionStructure) - This page will discuss the transaction format in AXIA network and how to create, sign, and broadcast transactions. Like the other pages in this guide, this page demonstrates some of the available tools.
 - [Peer Node Setup](PeerNodeSetup) - Here you can find How to setup the AXIA Network peer node in your Linux system.
 - [Wallet Usage](AXwallet) -  A short overview of the AXwallet usage.
 - [Faucet Usage](Faucet) - How to get Testnet tokens using AXchat faucet.

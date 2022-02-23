@@ -7,18 +7,7 @@ slug: ../AXIA-Services
 ---
 
 There are a variety of services and products available for which participants can take advantage right away. These services and products offer greater convenience, efficiency, autonomy along with favorable benefits and rewards; while providing even greater real-world utility for AXIA Coin in the ever expanding ecosystem.
-### THE AXIA WALLET  
-The AXIA Wallet will be embedded in all applications in the AXIA Ecosystem.
 
-The wallet is a free and secure tool that offers the ability to transact, exchange, buy, sell, hold, store, send and receive AXIA Coins. The wallet is also the means through which users of AXIA Coin receive unparalleled benefits and rewards just for participating.  
-
-Once a person registers for their AXIA Wallet, those credentials can be conveniently used for every application in the AXIA Ecosystem. Once the profile is created, the wallet is generated. From there, participants will have access to each application. This profile can be synced across all their hardware devices such as a phone, computer or tablet.
- 
-AXIA is providing greater efficiency and more upside potential along with favorable rewards and benefits for all people who come into the ecosystem who have generated an AXIA Wallet. 
-
-The AXIA Wallet can also be used to empower people to develop income for themselves. An AXIA Ecosystem participant can easily utilize the AXIA Wallet as a tool to generate additional earnings and rewards from their own followers, subscribers, users, attendees, services and products they offer depending on the application within the AXIA Ecosystem. They can leverage any of the apps to their advantage to pursue their own entrepreneurial goals just by maximizing the additional utility offered by having the AXIA Wallet embedded in all the applications.
-
-All activity taking place in the AXIA Wallet within the AXIA Ecosystem can be settled instantaneously, and completed in a more cost-efficient manner than if conducted outside the AXIA Network. Moreover, there is the simultaneous added advantage that this activity will direct value back to strengthening AXIA Coin itself through the mechanism of coin burning leading to the reduction in Total Supply.
 ### AXIA SECURE KEY STORAGE AND TOKEN CUSTODY SERVICE
 The self-management and recovery of a user’s public and private wallet keys is a clear challenge slowing the widespread adoption of cryptocurrencies. Some of the main concerns of using cryptocurrencies relate to  the ease of use of wallet applications, and overall security of funds. If a user’s keys are lost, forgotten, or in some cases, stolen, their cryptocurrencies and funds are gone forever.
 

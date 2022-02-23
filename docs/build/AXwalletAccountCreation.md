@@ -17,7 +17,7 @@ Here you can see two options
 
 ### Create Account
 
-In order to create a new account you can click on the `Create Account` button.
+In order to create a new account you can click on the Create Account button.
 
 ![create_account](../assets/wallet/create_account.png)
 
@@ -25,11 +25,11 @@ Then it will give some information about the application.
 
 ![walletInfo](../assets/wallet/wallet_info.png)
 
-By pressing on the `Next` button it will generate a Twelve words Backup mnemonic.
+By pressing on the Next button it will generate a Twelve words Backup mnemonic.
 
 ![backup](../assets/wallet/backup.png)
 
-On the next page you have to confirm the mnemonic and press `Next`. 
+On the next page you have to confirm the mnemonic and press Next. 
 
 ![confirm_mnemonic](../assets/wallet/confirm_mnemonic.png)
 
@@ -43,11 +43,11 @@ Your account will be added in the AXwallet application.
 
 ## Import Account
 
-In order to Import an existing account click on the `Import Account` button.
+In order to Import an existing account click on the Import Account button.
 
 ![import_account](../assets/wallet/import.png)
 
-In the next screen you can select Mnemonic as the Source Type and give the `Twelve words Mnemonic` or You can select Raw Seed as the Source Type and put the `Raw Seed` that you have already generated during your account generation.
+In the next screen you can select Mnemonic as the Source Type and give the Twelve words Mnemonic or You can select Raw Seed as the Source Type and put the Raw Seed that you have already generated during your account generation.
 
 ![import_opts](../assets/wallet/import_opts.png)
 
