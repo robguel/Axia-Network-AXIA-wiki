@@ -5,7 +5,7 @@ sidebar_label: AXIA Coin (AXC)
 slug: ../learn-auction
 ---
 
-The monetary policy of AXIA is controlled by code, not a few people in a boardroom. Unlike fiat currencies, AXIA has a limited total supply that has already been established which can only reduce over time.. There will never be more AXIA Coins minted than the Total Supply. And the Total Supply can only decrease, never increase. 
+The monetary policy of AXIA is controlled by code, not a few people in a boardroom. Unlike fiat currencies, AXIA has a limited total supply that has already been established which can only reduce over time. There will never be more AXIA Coins minted than the Total Supply. And the Total Supply can only decrease, never increase. 
 
 
 In addition to offering a more efficient and cost effective ability to move their AXIA Coins from wallet-to-wallet, across the globe, individual community members will be able to exchange their AXIA Coins for other global currencies should they wish to do so. In supporting these integration and partnership opportunities, the AXIA Foundation maintains a commitment to actively support a variety of use cases through innovative services, products and platforms so that global participants, businesses and projects continue to flourish within the community. 

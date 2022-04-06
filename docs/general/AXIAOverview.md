@@ -25,7 +25,7 @@ This goal is set in motion through the disruptive design of AXIA, which brings a
 * A new standard of transparency to bring a greater level of trust to the market.
 * Unrivaled staking rewards.
 * A network with low fees that can decrease proportionally over time that produces value for users.
-* An truly interoperable network.
+* A truly interoperable network.
 * An inclusive and energy efficient network consensus algorithm including mobile staking to allow greater adoption of blockchain technology.
 
 **AXIA enables transparency, participation, community, inclusion, opportunity and prosperity for all.** 

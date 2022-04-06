@@ -6,7 +6,7 @@ slug: ../AXscan
 ---
 
 ## **AXscan**
-AXscan is the utility to view, analyse the AXIA network. It keeps track of all the Blocks generated with the transactions donw since the begening of time. It can also be used to search for any specific Block height or Transaction Id to analyse any transaction which has taken plave over the network. AXscan will further allow you ,ultple operations including the web AXwallet inbuilt to send receive AXC's. To maintain your wallet account using AXscan following guidelines are to be followed for safe operations:
+AXscan is the utility to view, analyse the AXIA network. It keeps track of all the Blocks generated with the transactions done since the begening of time. It can also be used to search for any specific Block height or Transaction Id to analyse any transaction which has taken plave over the network. AXscan will further allow you to do multiple operations including the web AXwallet inbuilt to send receive AXC's. To maintain your wallet account using AXscan following guidelines are to be followed for safe operations:
 
 
 ## **IMPORTANT:Key Security**
