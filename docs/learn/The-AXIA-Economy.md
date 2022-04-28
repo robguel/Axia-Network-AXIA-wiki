@@ -29,7 +29,7 @@ AXIA is delivering fundamental value to the market through its innovative moneta
 
 The coin burning mechanism is facilitated from a variety of inputs that will only increase in velocity as the AXIA Ecosystem continues to expand. 
 
-The AXIA Coin Burning Smart Contract ensures that coins are burned from the Total Supply when any of the following seven events happens:
+The AXIA Coin zero burn address ensures that coins are burned from the Total Supply when any of the following seven events happens:
 
 1. When a new user registers, the equivalent of $200 USD in AXIA Coin is burned
 2. When AXIA Coin is acquired inside the AXIA Ecosystem, an equivalent amount is burned
