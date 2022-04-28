@@ -15,22 +15,17 @@ The longer a participant stakes their AXIA Coin, the longer it will not be a par
 
 AXIA will initially offer several different coin staking terms for the AXIA Coin, all of them generating high annual rewards and magnified by the power of daily compounding, as illustrated in the table below:
 
-The staking rewards are provided for AXIA Capital Bank members, while successful Validators on the network can generate 33% more on top of the APY as listed below.
 
+The Power of Compounding Your AXIA Coin (AXC). Below are the initial staking offers (subject to change)
 
-The Power of Compounding Your AXIA Coin (AXC)
-
-|               |                        |                             |         |
-| :-----------: | :--------------------: | :-------------------------: | :-----: |
-| Coin Staking Term  |     Annual Rate of Rewards       | Daily Reward | Total at End of Term per 1000 AXC staked |
-|    6 months    |          48%            |          0.1314%           |  1,270.01  |
-|    12 months    |           96%           |            0.2628%          |   2,606.70  |
-|     18 months    |          144%          |           0.3943%            |  8,741.22 |
-|     24 months     |          192%          |           0.5257%            |  46,386.03   |
+|               |                        |                             |
+| :-----------: | :--------------------: | :-------------------------: |
+| Coin Staking Term  |     Annual Rate of Rewards       | Daily Reward |
+|    6 months    |          48%            |          0.1314%           |
+|    12 months    |           96%           |            0.2628%          |
+|     18 months    |          144%          |           0.3943%            |
+|     24 months     |          192%          |           0.5257%            |
 
 * All rates represent Annual Percentage Yield 
 * Rewards are paid out and compounded daily
-* Totals assume no change in value of AXC 
-* 1.00 AXC/USD value used for example purposes only
-* Rate of Rewards are subject to change
 
