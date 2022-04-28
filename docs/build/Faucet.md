@@ -1,13 +1,13 @@
 ---
 id: build-smart-contracts
-title: Faucet Usage
-sidebar_label: Faucet Usage
+title: Faucet Usage (TestNet only)
+sidebar_label: Faucet Usage (TestNet only)
 slug: ../Faucet
 ---
 
 
 ### Overview
-The AXIA messaging app AXchat is used as the AXIA Testnet Faucet. A Testnet group chat has been setup and a bot listens for incoming messages.
+The AXIA messaging app AXchat is used as the AXIA Testnet Faucet for interacting with TestNet. A Testnet group chat has been setup and a bot listens for incoming messages.
 
 The bot listens for the 2 following commands:
 ```bash
