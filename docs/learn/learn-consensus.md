@@ -22,7 +22,6 @@ Some resources in a blockchain network are not unlimited, such as storage space 
 * Fees for the length or the byte size
 * A charge against the weight
 * Optional fee to prioritize transactions
-* The value of AXIA Coin relative to USD
 
 Here the length fee is the fixed per-byte fee and the transaction size in bytes, the weight fee is a fixed fee for each validated block, and the optional fee is at the discretion of the user to give higher priority to their transactions.
 These three elements of the fee are deducted from the sender's account prior to execution of the transaction. The total amount deducted from the sender will then be burned, reducing Total Supply of AXIA Coin. Therefore unlike any other network, AXIA will burn 100% of all gas fees. This provides a significant economic advantage for all participants on the network, as the constant reduction in Total Supply after each block creation will provide ongoing value for all AXIA community members. The staking rewards will come from Total Supply utilizing the proprietary model of AXIA.
